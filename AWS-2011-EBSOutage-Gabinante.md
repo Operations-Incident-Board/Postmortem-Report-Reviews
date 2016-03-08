@@ -52,3 +52,5 @@ This postmortem is very technical. It goes into the specifics of how ec2 works a
 ## About the Author
 My name is Gabe Abinante and I am an SRE at ClearSlide. You can reach me at gabe@abinante.com or gabinante@twitter
 
+
+####\#partial-outage #degraded-service #network #technical
