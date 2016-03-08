@@ -1,6 +1,11 @@
 # Postmortem-Report-Reviews
 This repo exists to house reviews of published postmortem reports. To facilitate easy reading, please use the following outline to generate any report that you make.
 
+The title of your postmortem report should follow this format:
+$DATETODAY-$YOURNAME-$COMPANY-$SERVICE-$OUTAGEDATE
+
+After the title, include a link to the relevant postmortem.
+
 ## Company Overview
 This section should include a brief description of the company which produced the postmortem. This should include a brief note on their customer base.
 
@@ -16,8 +21,8 @@ What steps will be taken to prevent future occurrence / How does the company ens
 ## Extrapolations / analysis / additional thoughts
 Offer your own opinion on what occurred, include any additional thoughts about the postmortem process or method of communication that the company used. Overall analysis from your perspective belongs here.
 
-## Citations
-Please include a link to the postmortem you are reviewing and any other resources that you utilized to complete your report.
+## Citations / Additional reading
+Please include a link to any other resources (beyond the relevant postmortem) that you utilized to complete your report, or any documents that would give additional context about the outage or the postmortem.
 
 ## About the Author
 Add details about the writer - This exists primarily so that people can use information about you to inform them on your perspective. a System Administrator will have a different view of an outage than an engineer, etc. This portion and any pieces of it are optional, but if you choose to include it please Follow this format:
