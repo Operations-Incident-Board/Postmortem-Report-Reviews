@@ -1,4 +1,4 @@
-Report: Amazon EC2 and Amazon RDS Service Disruption in the US East Region, April 21st-April 24th 2011
+# Report: Amazon EC2 and Amazon RDS Service Disruption in the US East Region, April 21st-April 24th 2011
 
 ## Company Overview
 Amazon Web Services is a collection of cloud computing services which offers storage, load balancing, on-demand compute, DNS management, and more. One of the key advantages they offer is having on-demand resources available in 12 separate regions across the globe. For this reason and because of the ease of setup and configuration, they are quickly becoming pervasive throughout the web as an infrastructure provider. AWS's Q3 2015 revenue was $2.1 billion. 
