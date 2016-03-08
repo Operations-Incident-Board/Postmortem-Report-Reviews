@@ -1,4 +1,5 @@
-# Report: Amazon EC2 and Amazon RDS Service Disruption in the US East Region, April 21st-April 24th 2011
+# Report: AWS EBS outage April 21st-April 24th 2011
+Link to Postmortem: https://aws.amazon.com/message/65648/
 
 ## Company Overview
 Amazon Web Services is a collection of cloud computing services which offers storage, load balancing, on-demand compute, DNS management, and more. One of the key advantages they offer is having on-demand resources available in 12 separate regions across the globe. For this reason and because of the ease of setup and configuration, they are quickly becoming pervasive throughout the web as an infrastructure provider. AWS's Q3 2015 revenue was $2.1 billion. 
@@ -40,17 +41,15 @@ They likely have an established method for generating postmortems that they revi
 This postmortem is very technical. It goes into the specifics of how ec2 works and expects the user to have a relatively thorough understanding of computer systems, networks, and storage. The technicality of the postmortem doesn’t necessarily reflect the complexities of the issue (which were considerable) but may be a reflection upon the intended audience. AWS caters almost entirely to engineers and operations people who are highly technical in nature. If this was a product intended for sales teams, this type of postmortem would definitely need to be accompanied by something with very different language. 
 
 
-## Citations/Additional Reading:
+## Additional Reading:
 
-1. https://aws.amazon.com/message/65648/
+1. http://techblog.netflix.com/2011/04/lessons-netflix-learned-from-aws-outage.html
 
-2. http://techblog.netflix.com/2011/04/lessons-netflix-learned-from-aws-outage.html
-
-3. https://www.twilio.com/engineering/2011/04/22/why-twilio-wasnt-affected-by-todays-aws-issues/
+2. https://www.twilio.com/engineering/2011/04/22/why-twilio-wasnt-affected-by-todays-aws-issues/
 
 
 ## About the Author
-My name is Gabe Abinante and I am an SRE at ClearSlide. You can reach me at gabe@abinante.com or gabinante@twitter
+My name is Gabe Abinante and I am an SRE at ClearSlide. You can reach me at gabe@abinante.com or @gabinante on twitter
 
 
 ###### \#partial-outage #degraded-service #network #technical
