@@ -22,7 +22,7 @@ About 36 hours after the incident, Google released a lengthy postmortem.  It exp
 Given the updates and the times mentioned in the postmortem, we can assemble this timeline:
 
 Time (Pacific) | Description
-----------------------------
+---------------|------------
 14:50          | Benign configuration change released by GCE engineers.
 18:14          | Postmortem states that Cloud VPN impact started now.
 18:25          | Status post reports that Cloud VPN impact started now.
