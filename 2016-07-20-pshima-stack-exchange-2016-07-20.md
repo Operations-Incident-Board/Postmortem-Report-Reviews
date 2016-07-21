@@ -4,7 +4,7 @@ Postmortem link: http://stackstatus.net/post/147710624694/outage-postmortem-july
 
 ## Company Overview
 
-The customer base of Stack eExchange is largely of technical users looking for solutions to problems and/or to participate in the large community and knowledgebase present in this network.
+The customer base of Stack Exchange is largely of technical users looking for solutions to problems and/or to participate in the large community and knowledgebase present in this network.
 
 From the Stack Exchange about page:
 
