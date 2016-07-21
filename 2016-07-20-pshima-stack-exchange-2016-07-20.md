@@ -4,9 +4,9 @@ Postmortem link: http://stackstatus.net/post/147710624694/outage-postmortem-july
 
 ## Company Overview
 
-The customer base of stack exchange is largely of technical users looking for solutions to problems and/or to participate in the large community and knowledgebase present in this network.
+The customer base of Stack eExchange is largely of technical users looking for solutions to problems and/or to participate in the large community and knowledgebase present in this network.
 
-From the stack exchange about page:
+From the Stack Exchange about page:
 
 Stack Exchange is a network of 150+ Q&A communities including Stack Overflow, the preeminent site for programmers to find, ask, and answer questions about software development. Founded in 2008 by Joel Spolsky and Jeff Atwood, the company was built on the premise that serving the developer community at large would lead to a better, smarter Internet. Since then, the Stack Exchange network has grown into a top-50 online destination, with Stack Overflow alone serving more than 40 million professional and novice programmers every month. The broader Stack Exchange Network has expanded to cover topics as diverse as Mathematics, Home Improvement, Statistics, and English Language and Usage.
 
@@ -44,7 +44,7 @@ This is an interesting action item and I love seeing action items around improvi
 
 It is great to see this level of visibility from Stack Exchange!  The details in the post mortem give the reader a decent understanding of the issue and what caused the full outage.  The tweets would suggest Nick played a big part in writing the post mortem and also in recovery of the issue and I would like to thank Nick and the Stack Exchange team for providing this visibility and for releasing the post mortem so quickly after a major incident.
 
-It is unknown to me if there was a specific site with the post in the stack exchange network that caused the issue but without further detail it would suggest that there is a very large blast radius for Stack Exchange sites and a bug on any of the sites could cause a full network outage.  This is not a negative, only an observation from this post mortem.  It does leave the reader wondering more.
+It is unknown to me if there was a specific site with the post in the Stack Exchange network that caused the issue but without further detail it would suggest that there is a very large blast radius for Stack Exchange sites and a bug on any of the sites could cause a full network outage.  This is not a negative, only an observation from this post mortem.  It does leave the reader wondering more.
 
 I would have loved to see some additional information on how the event was discovered and more around improving resiliency of the web server fleet.  The root cuased was identified fairly quickly, and more knowledge here could give the reader additional confidence that while this specific issue was resolved, future bugs or unknowns could also be resolved in a similar manner.  This is an nit pick of this post mortem and I would consider this post mortem as a good example as a follow up to a major issue.  
 
